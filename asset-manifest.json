@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/hrithik-portfolio/static/css/main.4ae03e9a.css",
-    "main.js": "/hrithik-portfolio/static/js/main.db36e4dd.js",
-    "index.html": "/hrithik-portfolio/index.html",
-    "main.4ae03e9a.css.map": "/hrithik-portfolio/static/css/main.4ae03e9a.css.map",
-    "main.db36e4dd.js.map": "/hrithik-portfolio/static/js/main.db36e4dd.js.map"
+    "main.css": "/hrithik-portfolio-ui/static/css/main.4ae03e9a.css",
+    "main.js": "/hrithik-portfolio-ui/static/js/main.db36e4dd.js",
+    "index.html": "/hrithik-portfolio-ui/index.html",
+    "main.4ae03e9a.css.map": "/hrithik-portfolio-ui/static/css/main.4ae03e9a.css.map",
+    "main.db36e4dd.js.map": "/hrithik-portfolio-ui/static/js/main.db36e4dd.js.map"
   },
   "entrypoints": [
     "static/css/main.4ae03e9a.css",
